@@ -1,0 +1,20 @@
+{
+    "ID": "Ursa_CYF",
+    "Title": "Ursa Cascadia's CYF Expansion",
+    "Description": "Tiles of my characters.",
+    "Version": "1.0.0",
+    "Author": "ursacascadia",
+    "Tags": "Cosmetic",
+    "Dependencies": {
+        "Kernelmethod_ChooseYourFighter": "*"
+    },
+    "Directories": [
+        {
+            "Path": "/Common/"
+        },
+        {
+            "Path": "/CrossedThreadsExpansion/",
+            "Dependency": "Ursa_CrossedThreads"
+        }
+    ]
+}

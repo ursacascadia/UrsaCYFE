@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<KernelmethodChooseYourFighter>
+    <group ID="Ursa_CYF" Name="- {{prismatic|Thank You Mr. Modder!}} {{K|by ursacascadia}}">
+        <model ID="Ursa_0Ursa" Name="{{amorous|Ursa Cascadia}}">
+            <tile Path="UrsaUrsa.png" Foreground="w" DetailColor="Y" />
+        </model>
+        <model ID="Ursa_1PredBear" Name="Big Bear">
+            <tile Path="UrsaFatFuckingPredBear.png" Foreground="w" DetailColor="Y" />
+        </model>
+    </group>
+</KernelmethodChooseYourFighter>

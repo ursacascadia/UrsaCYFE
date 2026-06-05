@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<KernelmethodChooseYourFighter>
+    <group ID="Ursa_CYF_CrossedThreads" Name="- {{dragonesque|Crossed Threads}} {{K|by ursacascadia {{y|and}} billy checkers}}">
+        <model ID="Ursa_CYF_Azhdahak" Name="{{dragonesque|Azhdahak}}">
+            <tile Path="Creatures/Azhdahak.png" Foreground="G" DetailColor="W" />
+        </model>
+        <model ID="Ursa_CYF_Rofwufufuf" Name="{{dragonesque|Rofwufufuf}}">
+            <tile Path="Creatures/Rofwufufuf.png" Foreground="w" DetailColor="B" />
+        </model>
+    </group>
+</KernelmethodChooseYourFighter>
