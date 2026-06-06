@@ -1,9 +1,9 @@
 {
     "ID": "Ursa_CYF",
-    "Title": "Ursa Cascadia's CYF Expansion",
-    "Description": "Tiles of my characters.",
+    "Title": "{{extradimensional|Astral Projectors}}: CYF Expansion",
+    "Description": "Visages of ones who've taken themselves out of their bodies, and projected themselves in a wholly different land.",
     "Version": "1.0.0",
-    "Author": "ursacascadia",
+    "Author": "{{amorous|UrsaCascadia}}",
     "Tags": "Cosmetic",
     "Dependencies": {
         "Kernelmethod_ChooseYourFighter": "*"
