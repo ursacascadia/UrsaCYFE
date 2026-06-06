@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <KernelmethodChooseYourFighter>
     <group ID="Ursa_CYF" Name="- {{prismatic|Thank You Mr. Modder!}} {{K|by ursacascadia}}">
-        <model ID="Ursa_0Ursa" Name="{{amorous|Ursa Cascadia}}">
-            <tile Path="UrsaUrsa.png" Foreground="w" DetailColor="Y" />
+        <model ID="Ursa_0Ursa" Name="{{amorous|Cascadia}} {{K|by ursacascadia}}">
+            <tile Path="Ursa_Ursa.png" Foreground="w" DetailColor="Y" />
         </model>
-        <model ID="Ursa_1PredBear" Name="Big Bear">
-            <tile Path="UrsaFatFuckingPredBear.png" Foreground="w" DetailColor="Y" />
+        <model ID="Ursa_1Con" Name="{{snakeskin|Con}} {{K|by billy checkers}}">
+            <tile Path="Common/Textures/Ursa_Con_BillyCheckers.png" Foreground="g" DetailColor="C" />
+        </model>
+        <model ID="Ursa_2PredBear" Name="{{amorous|Cascadia}} (round) {{K|by ursacascadia}}">
+            <tile Path="Ursa_UrsaRound.png" Foreground="w" DetailColor="Y" />
         </model>
     </group>
 </KernelmethodChooseYourFighter>
