@@ -5,7 +5,7 @@
             <tile Path="Ursa_Ursa.png" Foreground="w" DetailColor="Y" />
         </model>
         <model ID="Ursa_1Con" Name="{{snakeskin|Con}} {{K|by billy checkers}}">
-            <tile Path="Common/Textures/Ursa_Con_BillyCheckers.png" Foreground="g" DetailColor="C" />
+            <tile Path="Ursa_Con_BillyCheckers.png" Foreground="g" DetailColor="C" />
         </model>
         <model ID="Ursa_2PredBear" Name="{{amorous|Cascadia}} (round) {{K|by ursacascadia}}">
             <tile Path="Ursa_UrsaRound.png" Foreground="w" DetailColor="Y" />
