@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <KernelmethodChooseYourFighter>
-    <group ID="Ursa_CYF" Name="- {{extradimensional|Astral Projectors}} {{K|by ursa cascadia and company}}">
+    <group ID="Ursa_CYF" Name="- {{extradimensional|Astral Projectors}} {{K|by various artists}}">
         <model ID="Ursa_0Ursa" Name="{{amorous|Cascadia}} {{K|by ursacascadia}}">
             <tile Path="Ursa_Ursa.png" Foreground="w" DetailColor="Y" />
         </model>
